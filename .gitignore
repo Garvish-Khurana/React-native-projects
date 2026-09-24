@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Android
+.gradle/
+local.properties
+*.iml
+
+# Android build
+android/app/build/
+android/build/
+
+# Metro
+.metro-health-check*
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
